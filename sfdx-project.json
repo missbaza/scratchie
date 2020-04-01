@@ -1,7 +1,12 @@
 {
-  "orgName": "Feature scratch org",
-  "country": "GB",
-  "edition": "Developer",
-  "hasSampleData": false
-  "language": "en_US",
+    "packageDirectories": [
+        { 
+            "path": "gearset", 
+            "default": true 
+        }
+    ],
+
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "45.0"
 }
